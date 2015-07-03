@@ -1,0 +1,9 @@
+{
+	"name": "Novalist",
+	"version": "1.0.0",
+	"devDependencies": {
+		"grunt": "latest",
+		"grunt-contrib-watch": "latest",
+		"grunt-contrib-sass": "latest"
+	}
+}
